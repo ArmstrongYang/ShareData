@@ -2,3 +2,6 @@
     path = flowers
     url = https://github.com/ArmstrongYang/ShareData_flowers.git
     branch = master
+[submodule "MNIST"]
+	path = MNIST
+	url = https://github.com/ArmstrongYang/ShareData_MNIST.git
